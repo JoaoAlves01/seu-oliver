@@ -214,8 +214,8 @@
         require "Twilio/autoload.php";
 
         $numeroTwilio = "14155238886";
-        $sid = 'AC34df7a2eacb73132cf772f70f71c1ab4';
-        $token = '5bb856134dc48c066e0f3343dfcae438';
+        $sid = '***AC34df7a2eacb73132cf772f70f71c1ab4***';
+        $token = '***5bb856134dc48c066e0f3343dfcae438***';
         $client = new Client($sid, $token);
 
         $message = $client->messages->create("whatsapp:+" . $destinatario,
@@ -238,8 +238,8 @@
         require "Twilio/autoload.php";
 
         $numeroTwilio = "14155238886";
-        $sid = 'AC34df7a2eacb73132cf772f70f71c1ab4';
-        $token = '5bb856134dc48c066e0f3343dfcae438';
+        $sid = '***AC34df7a2eacb73132cf772f70f71c1ab4***';
+        $token = '***5bb856134dc48c066e0f3343dfcae438***';
         $client = new Client($sid, $token);
 
         $message = $client->messages->create($destinatario,
