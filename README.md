@@ -1,4 +1,4 @@
-- Seu Oliver
+<b>Seu Oliver</b>
 
 Um sistema capaz de otimizar o tempo de respostas e qualidade na interação com os compradores resolvendo problemas com um grande fluxo de dados gerados por dúvidas de consumidores, evitano lentidão ou perda de vendas.
 Assim facilitando tomadas de decisões fazendo com que a empresa não perca o timing da venda.
