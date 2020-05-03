@@ -1,13 +1,8 @@
 <?php
 
     require 'lib/controle.php';
+    
     notificacoes();
-    // [id] => 558824642
-    // [nickname] => TEST3H1XBGB6
-    // [password] => qatest8289
-    // [site_status] => active
-    // [email] => test_user_79112534@testuser.com
-
     $anuncios = listarAnuncios();
     
     include('header.php'); 
